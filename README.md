@@ -28,6 +28,9 @@ $ curl http://127.0.0.1:5000/
 
 
 Use PYLINT command for checking the code in Python file
+Exmpl:
+Pylint app.py
+
 
 -----------------------------------------------------------------------------
 
