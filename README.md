@@ -6,8 +6,10 @@ Create Makefile using 'touch' command
 
 Write down code with instructions to $make command using tamplate:
 
+
 'instruction name'
---TAB-- 'Code instruction'
+  TAB  'Code instruction'
+
 
 Command example:
 run:
