@@ -15,6 +15,7 @@ Command example:
 run:
 	  python -m flask run
 
+**USE RAW IN GITHUB OR NANO IN GITBASH TO SEE CORRECT TEMPLATE 
 -----------------------------------------------------------------------------
 
 RUN SERVER with command $make
